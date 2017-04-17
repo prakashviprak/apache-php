@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM alpine:3.4
 MAINTAINER Christian Wagner chriswayg@gmail.com
 
 # Usage:
